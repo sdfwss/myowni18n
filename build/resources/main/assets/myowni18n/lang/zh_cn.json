@@ -1,0 +1,12 @@
+{
+  "myowni18n.custom.hello": "你好世界",
+  "item.minecraft.diamond_sword": "钻石圣剑",
+  "advancements.story.root.title": "新的开始",
+  "config.myowni18n.title": "我的语言配置",
+  "config.myowni18n.selectedLang": "当前语言",
+  "config.myowni18n.customLanguages": "自定义语言文件",
+  "gui.myowni18n.file_browser": "语言文件浏览器",
+  "config.myowni18n.title": "我的翻译配置",
+  "category.file": "文件设置",
+  "option.filepath": "语言文件路径"
+}
